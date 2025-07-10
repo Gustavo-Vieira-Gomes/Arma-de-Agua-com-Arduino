@@ -19,8 +19,8 @@ Para representação, foram necessárias algumas adaptações no tinkercad:
 | Fonte de Tensão Ajustável | 1 | Valor Descrito Acima |
 | Resistor 2,2K | 1 | 0,07 |
 | Transistor NPN | 1 | 2,60 |
-| Relé 5V | 1 | 5,7 |
-| Diodo | 2 | 0,7 |
+| Relé 5V | 1 | 5,70 |
+| Diodo | 2 | 0,70 |
 | Placa Arduino Uno | 1 | 52,40 |
 | Sensor Ultrassom | 1 | 16,00 |
 | Bomba de Água 3 a 6V | 1 | 20,00 |
