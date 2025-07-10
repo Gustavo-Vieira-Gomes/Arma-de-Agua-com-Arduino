@@ -6,6 +6,14 @@ O objetivo do trabalho era utilizar um sensor ultrassônico para detectar a pres
 
 <br>
 
+# Circuito do Projeto no tinkercad.
+Para representação, foram necessárias algumas adaptações no tinkercad:
+- Motor DC no lugar da bomba de água
+- Relé utilizado com formato diferente do que usamos (No projeto utilizamos o relé de 5 pinos.)
+- Bateria adaptada. No projeto, utilizamos nossa fonte de tensão ajustável configurada servindo 5V. No tinkercad, usamos 3 baterias de 1,5V
+
+- ![Alt text](<./circuito arduino>)
+
 | Componentes | Quantidade | Valor unitário (R$) |
 |:-----|:--------:|------:|
 | Fonte de Tensão Ajustável | 1 | Valor Descrito Acima |
