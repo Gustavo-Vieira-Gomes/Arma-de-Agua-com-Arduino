@@ -4,15 +4,15 @@
 
 O objetivo do trabalho era utilizar um sensor ultrassônico para detectar a presença de um alvo. A partir disso, realizar o disparo utilizando uma Bomba de Água imersa dentro do recipiente.
 
-<br>
-
 # Circuito do Projeto no tinkercad.
 Para representação, foram necessárias algumas adaptações no tinkercad:
 - Motor DC no lugar da bomba de água
 - Relé utilizado com formato diferente do que usamos (No projeto utilizamos o relé de 5 pinos.)
 - Bateria adaptada. No projeto, utilizamos nossa fonte de tensão ajustável configurada servindo 5V. No tinkercad, usamos 3 baterias de 1,5V
 
-- ![Alt text](<./circuito arduino>)
+![Alt text](<./circuito arduino.jpg>)
+
+# Componentes utilizados
 
 | Componentes | Quantidade | Valor unitário (R$) |
 |:-----|:--------:|------:|
@@ -25,7 +25,7 @@ Para representação, foram necessárias algumas adaptações no tinkercad:
 | Sensor Ultrassom | 1 | 16,00 |
 | Bomba de Água 3 a 6V | 1 | 20,00 |
 
-# Projeto
+# Imagem do Projeto
 ![Alt text](./arma-de-agua-com-arduino.jpg)
 <br>
 
