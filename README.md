@@ -32,6 +32,9 @@ Para representação, foram necessárias algumas adaptações no tinkercad:
 # Vídeo do Projeto
 https://youtube.com/shorts/WPJaGv6oAQE?feature=share
 
+# Vídeo da explicação do Projeto
+https://youtu.be/nrvvnMfkwuk
+
 # Código do arduíno utilizado
 
 ```ino
